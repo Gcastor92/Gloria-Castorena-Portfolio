@@ -327,4 +327,4 @@ input:focus, textarea:focus{
   .hero-grid, .about-grid, .contact-grid{ grid-template-columns: 1fr; }
   .cards, .skills-grid{ grid-template-columns: 1fr; }
   .hero-stats{ grid-template-columns: 1fr; }
-  .nav{ gap: .5rem; }
+  .nav{ gap: .5rem; }}
